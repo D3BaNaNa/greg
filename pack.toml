@@ -1,0 +1,13 @@
+name = "Greg"
+author = "Hexasphere0"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2d2c3caf07c72643f34ba7ff3cb715c1419e7e87c778d1f42eabec54a9285923"
+
+[versions]
+forge = "43.2.14"
+minecraft = "1.19.2"
